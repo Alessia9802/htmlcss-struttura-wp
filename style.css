@@ -44,7 +44,7 @@ header {
 
 .down {
   background-color: #abcfe7;
-  width: 150px;
+  width: 140px;
   height: 280px;
   float: left;
 }
@@ -65,14 +65,21 @@ header {
 
 .contenuto {
   background-color: #abcfe7;
-  width: 444px;
+  width: 464px;
   height: 280px;
   float: left;
 }
 
 .down_1 {
   background-color: #abcfe7;
-  width: 150px;
+  width: 140px;
   height: 280px;
   float: left;
+}
+
+.space_4 {
+  background-color: #0086ff;
+  width: 100%;
+  height: 0.9rem;
+  display: inline-block;
 }
