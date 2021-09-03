@@ -9,3 +9,9 @@
   display: table;
   clear: both;
 }
+
+header {
+  background-color: #e579e6;
+  width: 100%;
+  height: 80px;
+}
