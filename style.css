@@ -29,3 +29,50 @@ header {
   margin-top: 8px;
   margin-bottom: 8px;
 }
+
+.lightblue {
+  background-color: #abcfe7;
+  width: 100%;
+  height: 40px;
+}
+
+.space_1 {
+  background-color: #0086ff;
+  width: 100%;
+  height: 0.9rem;
+}
+
+.down {
+  background-color: #abcfe7;
+  width: 150px;
+  height: 280px;
+  float: left;
+}
+
+.space_2 {
+  background-color: #0086ff;
+  width: 12px;
+  height: 280px;
+  float: left;
+}
+
+.space_3 {
+  background-color: #0086ff;
+  width: 12px;
+  height: 280px;
+  float: left;
+}
+
+.contenuto {
+  background-color: #abcfe7;
+  width: 444px;
+  height: 280px;
+  float: left;
+}
+
+.down_1 {
+  background-color: #abcfe7;
+  width: 150px;
+  height: 280px;
+  float: left;
+}
