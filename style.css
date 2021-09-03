@@ -9,6 +9,10 @@ body {
   margin: auto;
 }
 
+.debug > section {
+  width: 50%;
+}
+
 .clearfix::after {
   content: "";
   display: table;
@@ -42,20 +46,15 @@ header {
   height: 0.9rem;
 }
 
-.down {
+.down,
+.down_1 {
   background-color: #abcfe7;
   width: 140px;
   height: 280px;
   float: left;
 }
 
-.space_2 {
-  background-color: #0086ff;
-  width: 12px;
-  height: 280px;
-  float: left;
-}
-
+.space_2,
 .space_3 {
   background-color: #0086ff;
   width: 12px;
@@ -68,14 +67,6 @@ header {
   width: 464px;
   height: 280px;
   float: left;
-}
-
-.down_1 {
-  background-color: #abcfe7;
-  width: 140px;
-  height: 280px;
-  float: left;
-  display: inline-block;
 }
 
 .space_4 {
